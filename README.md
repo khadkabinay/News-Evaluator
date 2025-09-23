@@ -1,4 +1,4 @@
-# news-EvaluatorWith-NLP
+# News-EvaluatorWith-NLP
 ### this is a project that uses Aylien API to analyze the articles and news. 
 
 ### language and styles  :
